@@ -1,7 +1,7 @@
 # react-project-1
-A simple portfolio project using React JS & Github API
+A simple portfolio project using <a href="react.dev">React JS</a> & Github API
 
-This is a project from the book "React Projects" by Roy Derks. It was an amazing experience to learn about React JS by building projects.
+This is a project from the book "<a href="https://www.amazon.com/React-Projects-cross-platform-professional-developer/dp/1801070636">React Projects"</a> by <a href="https://www.amazon.com/stores/Roy-Derks/author/B0834CJH9L">Roy Derks</a>. It was an amazing experience to learn about React JS by building projects.
 
 <b>Things implemented in this project:</b>
 <ul>
